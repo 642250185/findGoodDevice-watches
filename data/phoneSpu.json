@@ -1,0 +1,51 @@
+[
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 626,
+        "modelName": "苹果手表 Series3 (42mm)"
+    },
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 1545,
+        "modelName": "苹果手表 Series3 (38mm)"
+    },
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 377,
+        "modelName": "苹果手表 Series2 (42mm)"
+    },
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 379,
+        "modelName": "苹果手表 Series2 (38mm)"
+    },
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 1596,
+        "modelName": "苹果手表 Series1 (42mm)"
+    },
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 378,
+        "modelName": "苹果手表 Series1 (38mm)"
+    },
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 376,
+        "modelName": "苹果手表1 (42mm)"
+    }
+]

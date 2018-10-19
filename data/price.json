@@ -1,0 +1,26 @@
+[
+    {
+        "productId": 313614,
+        "spuName": "苹果",
+        "netword": "GPS",
+        "banben": "其他版本",
+        "originPrice": 2050,
+        "serverPrice": 2050
+    },
+    {
+        "productId": 313613,
+        "spuName": "苹果",
+        "netword": "GPS",
+        "banben": "其他版本",
+        "originPrice": 2050,
+        "serverPrice": 2050
+    },
+    {
+        "productId": 313612,
+        "spuName": "苹果",
+        "netword": "GPS",
+        "banben": "其他版本",
+        "originPrice": 2050,
+        "serverPrice": 2050
+    }
+]
