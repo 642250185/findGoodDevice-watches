@@ -47,5 +47,12 @@
         "brandName": "苹果",
         "modelId": 376,
         "modelName": "苹果手表1 (42mm)"
+    },
+    {
+        "typeId": 9,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 512,
+        "modelName": "苹果手表1 (38mm)"
     }
 ]

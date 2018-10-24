@@ -1,26 +1,26 @@
 [
     {
-        "productId": 313614,
+        "productId": 321117,
         "spuName": "苹果",
-        "netword": "GPS",
+        "netword": "GPS+蜂窝网络",
         "banben": "其他版本",
-        "originPrice": 2050,
-        "serverPrice": 2050
+        "originPrice": 2199,
+        "serverPrice": 2199
     },
     {
-        "productId": 313613,
+        "productId": 291424,
         "spuName": "苹果",
         "netword": "GPS",
-        "banben": "其他版本",
-        "originPrice": 2050,
-        "serverPrice": 2050
+        "banben": "国行",
+        "originPrice": 1999,
+        "serverPrice": 1999
     },
     {
-        "productId": 313612,
+        "productId": 311737,
         "spuName": "苹果",
         "netword": "GPS",
         "banben": "其他版本",
-        "originPrice": 2050,
-        "serverPrice": 2050
+        "originPrice": 1899,
+        "serverPrice": 1899
     }
 ]

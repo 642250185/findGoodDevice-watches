@@ -109,5 +109,5 @@ const savePrice = async() => {
     }
 };
 
-savePrice()
+
 exports.savePrice = savePrice;
